@@ -1,0 +1,23 @@
+.timeline {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    border-top: 1px solid #eee;
+    transition: all 0.3s ease; /* Smooth transition */
+}
+
+.timeline-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.timeline-cell {
+    flex: 1;
+    text-align: center;
+    padding: 5px;
+    border-right: 1px solid #eee;
+}
+
+.timeline-cell:last-child {
+    border-right: none;
+}

@@ -1,0 +1,10 @@
+.release {
+    height: 20px;
+    background-color: #009688;
+    margin: 2px;
+    border-radius: 4px;
+    padding: 2px 5px;
+    color: #fff;
+    font-size: 12px;
+    display: inline-block;
+}

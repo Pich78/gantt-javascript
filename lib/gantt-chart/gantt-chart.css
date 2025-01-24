@@ -1,0 +1,6 @@
+.gantt-row {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
